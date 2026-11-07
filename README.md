@@ -1,2 +1,2 @@
-# draw-lots-class
+# Classroom Random Selection
 A lottery program
